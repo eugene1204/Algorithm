@@ -11,12 +11,10 @@ public class BubbleSort_review {
 					array[j] = array[j+1];
 					array[j+1] = temp; 
 				}
-				for(int k =0; k<10;k++) {
-					System.out.print(array[k]+" ");
-				}
-				System.out.println("");
+				
 				
 			}
+			
 		}
 		System.out.println("");
 		for(i =0; i<10;i++) {

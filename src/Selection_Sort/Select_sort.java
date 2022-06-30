@@ -1,6 +1,8 @@
 package Selection_Sort;
 /*
  * BigO, O(N*N)
+ * 앞에서부터 정렬함 
+ * i, j 반복문에서 계속 제일 작은 수를 찾아서 i번째에 넣음, 탐색은 j
  * */
 public class Select_sort {
 	public static void main(String[] args) {
